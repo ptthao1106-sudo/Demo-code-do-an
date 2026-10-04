@@ -27,7 +27,7 @@ Bản hoàn thiện demo được đối chiếu theo phạm vi và chức năng
 - Backend: Node.js + Express.
 - Cơ sở dữ liệu chính: MongoDB + Mongoose.
 - Xác thực quản trị: JWT + bcrypt.
-- Bản đồ: OpenStreetMap (bản đồ nền và dữ liệu tiện ích qua Overpass API) và OSRM cho định tuyến; không sử dụng Leaflet hoặc ArcGIS.
+- Bản đồ: OpenStreetMap (bản đồ nền và dữ liệu tiện ích qua Overpass API) và OSRM cho định tuyến.
 
 ## Chạy nhanh
 
